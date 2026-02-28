@@ -27,13 +27,19 @@ This project replicates the basic user interface and core functionalities of You
 ---
 
 ## 📂 Project Structure
-
-YouTube-Clone/
+```
+YOUTUBE_CLONE/
+├── .vscode/
+├── logo/
+├── styles/
+│   ├── general.css
+│   ├── header.css
+│   ├── sidebar.css
+│   └── video.css
+├── thumbnail/
 ├── index.html
-├── style.css
-├── script.js
 └── README.md
-
+```
 ---
 
 ## 💡 How It Works
@@ -70,10 +76,10 @@ This project was built to:
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here)
-
+https://ishakumari396.github.io/responsive-youtube-clone/
 ---
 
 ## 👩‍💻 Author
 
 Built with dedication using HTML, CSS, and JavaScript.
+
